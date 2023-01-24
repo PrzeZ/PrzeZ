@@ -1,9 +1,9 @@
 ### HELLO WORLD! 😄
 
- ／l、
-（ﾟ､ ｡ ７
-⠀ l、ﾞ ~ヽ
-  じしf_, )ノ
+###  ／l、
+###（ﾟ､ ｡ ７
+###  l、ﾞ ~ヽ
+###  じしf_, )ノ
 
 <!--
 **PrzeZ/PrzeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
